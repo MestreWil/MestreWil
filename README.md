@@ -20,3 +20,4 @@ Hi, welcome to my GitHub. I am currently a student of Systems Analysis and Devel
 ### Stats
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MestreWil&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#1162ad&height=120&section=footer"/>
