@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#1162ad&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#1162ad&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+William+Tavares+de+Moura.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#0080ff&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+William+Tavares+de+Moura.;)](https://git.io/typing-svg)
 Hi, welcome to my GitHub. I am currently a student of Systems Analysis and Development at UniSenac in Rio Grande do Sul.
 
 <div align=center>
