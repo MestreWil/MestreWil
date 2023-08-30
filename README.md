@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#1162ad&height=120&section=header"/>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=A03DBB&center=true&vCenter=true&width=450&height=70&lines=Welcome+to+my+GitHub" alt="Typing SVG" /></a>
 <hr>
 <div align=center>Hi, My name is William Tavares de Moura. I am currently a student of Systems Analysis and Development at UniSenac in Rio Grande do Sul.</div>
@@ -20,7 +18,3 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
   ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)
 
-  ### Stats
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MestreWil&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-</div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#1162ad&height=120&section=footer"/>
