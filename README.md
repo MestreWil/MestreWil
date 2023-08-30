@@ -1,8 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=A03DBB&center=true&vCenter=true&width=450&height=70&lines=Welcome+to+my+GitHub" alt="Typing SVG" /></a>
 <hr>
-<div align=center>Hi, My name is William Tavares de Moura. I am currently a student of Systems Analysis and Development at UniSenac in Rio Grande do Sul.</div>
+Hi, My name is William Tavares de Moura. I am currently a student of Systems Analysis and Development at UniSenac in Rio Grande do Sul.
 
-<div align=center>
+
 
   ### Social Medias
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/william-tavares-de-moura/)
