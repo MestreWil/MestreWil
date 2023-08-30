@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#1162ad&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=A03DBB&vCenter=true&width=450&height=70&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=A03DBB&center=true&vCenter=true&width=450&height=70&lines=Welcome+to+my+GitHub" alt="Typing SVG" /></a>
+<hr>
 <div align=center>Hi, My name is William Tavares de Moura. I am currently a student of Systems Analysis and Development at UniSenac in Rio Grande do Sul.</div>
 
 <div align=center>
