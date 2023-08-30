@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=A03DBB&center=true&width=435&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
-Hi, welcome to my GitHub. I am currently a student of Systems Analysis and Development at UniSenac in Rio Grande do Sul.
+<div align=center>Hi, My name is William Tavares de Moura. I am currently a student of Systems Analysis and Development at UniSenac in Rio Grande do Sul.</div>
 
 <div align=center>
 
