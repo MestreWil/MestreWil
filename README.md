@@ -21,6 +21,7 @@ Hi, My name is William Tavares de Moura. I am currently a student of Systems Ana
   ![Blog](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![Blog](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MestreWil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MestreWil&layout=compact&langs_count=7&theme=dark"/>
 
