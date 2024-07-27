@@ -18,3 +18,5 @@ Hi, My name is William Tavares de Moura. I am currently a student of Systems Ana
   ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
   ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)
 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MestreWil&layout=compact&langs_count=7&theme=dark"/>
+
