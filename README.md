@@ -17,6 +17,10 @@ Hi, My name is William Tavares de Moura. I am currently a student of Systems Ana
   ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
   ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
   ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)
+  ![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Blog](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Blog](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MestreWil&layout=compact&langs_count=7&theme=dark"/>
 
