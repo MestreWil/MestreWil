@@ -25,7 +25,7 @@ Hi, My name is William Tavares de Moura. I am currently a student of Systems Ana
 
   | Github Stats | Top Languages |
   | --- | --- |
-    | ![GitHub stats] <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MestreWil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> | ![Top languages] <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MestreWil&layout=compact&langs_count=7&theme=dark"/> |
+    | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MestreWil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MestreWil&layout=compact&langs_count=7&theme=dark) |
 
 </div>
     
