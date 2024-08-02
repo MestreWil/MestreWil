@@ -3,7 +3,7 @@
   </a>
 </div>
 <hr>
-Hi, My name is William Tavares de Moura. I am currently a student of Systems Analysis and Development at UniSenac in Rio Grande do Sul.
+Hi, My name is William Tavares de Moura. I am currently a student of Systems Analysis and Development at UniSenac in Rio Grande do Sul. I work as Software Developer using tecnologies like PHP, MySQL, PostgreSQL, Python and others at VERTICAIS LABS.
 
 
 
