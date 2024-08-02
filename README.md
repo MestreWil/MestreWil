@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?      font=&pause=1000&color=A03DBB&center=true&vCenter=true&width=450&height=70&lines=Welcome+to+my+GitHub" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?      font=&pause=1000&color=A03DBB&center=true&vCenter=true&width=450&height=70&lines=Hey+dude,+Let's+code+together" alt="Typing SVG" />
   </a>
 </div>
 <hr>
