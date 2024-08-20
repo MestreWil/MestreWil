@@ -24,6 +24,7 @@ Hi, My name is William Tavares de Moura. I'm a student of Systems Analysis and D
   ![Blog](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![Blog](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Blog](https://img.shields.io/badge/C#-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 <div align="center">
 
   | Github Stats | Top Languages |
