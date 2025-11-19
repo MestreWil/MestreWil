@@ -1,8 +1,3 @@
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?      font=&pause=1000&color=A03DBB&center=true&vCenter=true&width=450&height=70&lines=Hey+dude,+Let's+code+together?+👨🏻‍💻​" alt="Typing SVG" />
-  </a>
-</div>
-<hr>
 Hi, My name is William Tavares de Moura. I'm a student of Systems Analysis and Development at UniSenac in Rio Grande do Sul. I work as Software Developer using tecnologies like PHP, SQL Server, Codeigniter Framework, Python and others at FACTA FINANCEIRA.
 
 
