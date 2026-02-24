@@ -30,7 +30,7 @@ Hi, My name is William Tavares de Moura. I'm a student of Systems Analysis and D
 
   | Github Stats | Top Languages |
   | --- | --- |
-  | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MestreWil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true) | ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=MestreWil) |
+  | [![MestreWil's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MestreWil)] | ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=MestreWil) |
 
 </div>
     
