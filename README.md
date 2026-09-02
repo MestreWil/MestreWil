@@ -10,8 +10,7 @@ Hi, My name is William Tavares de Moura. I'm a student of Systems Analysis and D
 
 
   ### Skills
-  ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-  ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
   ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
   ![Codeigneiter](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
