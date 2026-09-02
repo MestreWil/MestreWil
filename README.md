@@ -1,4 +1,4 @@
-Hi, My name is William Tavares de Moura. I'm a gradueted in Systems Analysis and Development at UniSenac in Rio Grande do Sul. I work as Software Developer using tecnologies like PHP, Laravel, SQL Server, Codeigniter, Python and others at FACTA FINANCEIRA.
+Hi, my name is William Tavares de Moura. I have a degree in Systems Analysis and Development from UniSenac in Rio Grande do Sul, Brazil. I currently work as a Software Developer at FACTA Financeira, where I develop and maintain systems using technologies such as PHP, Laravel, SQL Server, CodeIgniter, Python, and others. I also have experience working with backend development, databases, legacy systems, and software maintenance.
 
 
 
