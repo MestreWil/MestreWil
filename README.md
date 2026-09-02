@@ -13,6 +13,7 @@ Hi, My name is William Tavares de Moura. I'm a student of Systems Analysis and D
    ![Blog](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
   ![Codeigneiter](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+  ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   ![Blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
   ![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
